@@ -94,3 +94,6 @@
 .social a:hover {
   opacity: 0.6;
 }
+.allign-bottom{
+  vertical-align: bottom;
+}
